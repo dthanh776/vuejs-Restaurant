@@ -1,1 +1,4 @@
-# vuejs-RestaurantCRUD-Login
+CRUD
+Login
+API
+LocalStorage
