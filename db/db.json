@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "duy",
+      "email": "duy@gmail.com",
+      "password": "123"
+    },
+    {
+      "name": "thanh",
+      "email": "thanh@gmail.com",
+      "password": "123",
+      "id": "T3scNSo"
+    }
+  ],
+  "restaurants": [
+    {
+      "id": 2,
+      "name": "queen",
+      "contact": 222,
+      "address": "Ha Noi"
+    }
+  ]
+}
